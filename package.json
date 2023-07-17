@@ -1,0 +1,17 @@
+{
+  "name": "webext-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "fire": "firebase"
+  },
+  "keywords": [],
+  "author": "Simeon Vincent <svincent@gmail.com> (https://dotproto.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "firebase-tools": "^12.4.4"
+  }
+}
